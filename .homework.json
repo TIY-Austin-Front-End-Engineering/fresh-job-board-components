@@ -1,0 +1,12 @@
+{
+    "name": "fresh-job-board-components",
+    "version": "0.0.1",
+    "title": "Fresh Job Board Components",
+    "description": "Build out data driven components for the Fresh Job Board",
+    "difficultyModes": [
+        "Normal"
+    ],
+    "keywords": [
+        "JavaScript"
+    ]
+}
