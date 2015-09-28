@@ -27,6 +27,9 @@ After completing this assignment, you be able to effectively use
 
 * A repo containing at least:
   * `scripts/main.js`
+  * `scripts/models/CompanyModel.js`
+  * `scripts/models/JobModel.js`
+  * `styles/main.scss`
   * `index.html`
 
 ### Requirements
