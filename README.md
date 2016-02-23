@@ -48,7 +48,7 @@ All of the data that is shown in the row (job title, company, city, description,
 
 Next implement the company box component below:
 
-![company box](images/company-box.jpg =250x)
+![company box](images/company-box.jpg)
 
 All of the data that is shown in the box (company name, logo, background image, and company size) should be read from your backbone model. If the model changes the component should re-render (hint: you will need to use an event listener and `this.forceUpdate` within your component).
 
